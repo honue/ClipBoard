@@ -8,5 +8,7 @@
 
 做的有点粗糙后续再看情况打磨.
 
+测试平台 M4 macOS sequoia 15.4.1
+
 <img width="400" alt="image" src="https://github.com/user-attachments/assets/5335802c-886c-4854-acae-85972ea30216" />
 <img width="300" alt="image" src="https://github.com/user-attachments/assets/ff625ff7-b9c8-4b57-adfb-bd368c2e4e42" />
